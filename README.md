@@ -75,6 +75,10 @@ changes the active assembly. Patch output is written and verified separately
 before replacement. Always close the game before installing, repairing, or
 restoring.
 
+The v1.0 executable is not digitally signed. Windows may therefore display an
+unknown-publisher warning. Download releases only from this repository and
+compare the ZIP against the published `SHA256SUMS.txt` before running it.
+
 This is an unofficial, fan-made project. It is not affiliated with, endorsed by,
 or supported by the creators or publishers of *How to Fish*. You are responsible
 for how you use it and for complying with the game's terms and applicable rules.

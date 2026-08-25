@@ -37,3 +37,5 @@ RO supports tested builds and other builds that preserve the required roulette s
 ## Disclaimer
 
 RO is an unofficial, fan-made project and is not affiliated with or endorsed by the creators or publishers of *How to Fish*. Use it responsibly and at your own risk. You are responsible for complying with the game's terms and applicable rules.
+
+The v1.0 executable is not digitally signed, so Windows may show an unknown-publisher warning. Download it only from this repository and verify the ZIP with the attached `SHA256SUMS.txt`.
