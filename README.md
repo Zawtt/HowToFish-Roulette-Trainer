@@ -20,7 +20,7 @@ Built for personal, offline experimentation — not to harm the game, its develo
 - Refuses to patch anything it can't safely verify
 
 ## Installation
-1. Download the latest ZIP from [Releases](https://github.com/Zawtt/HowToFish-Roulette-Trainer/releases/latest) and extract it.
+1. Download the latest ZIP from [Releases](https://github.com/Zawtt/RO-HowToFish-Roulette-Operator/releases/latest) and extract it.
 2. Close *How to Fish*, then run `How to Fish - Roulette Operator.exe`.
 3. Point it at the game's executable if it isn't found automatically.
 4. Confirm RO detects a compatible structure, then click **INSTALL / REPAIR**.
