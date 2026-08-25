@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+.vs/
+release/
+tests/universal/
+lib/*.dll
+validation/**/*.jsonl
+*.user
+*.suo
+roulette-trainer.jsonl
+trainer-mode.txt

@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToFish.RouletteTrainer.Bridge", "src\HowToFish.RouletteTrainer.Bridge\HowToFish.RouletteTrainer.Bridge.csproj", "{6A385EB1-DB3C-48F7-B949-B0D2A8F956A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToFish.RouletteTrainer.App", "src\HowToFish.RouletteTrainer.App\HowToFish.RouletteTrainer.App.csproj", "{DC91410D-11C9-4D61-8D04-3223B7B5D62E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainerPatcher", "tools\TrainerPatcher\TrainerPatcher.csproj", "{CFA73F21-E82A-4D00-9DF2-7229562B6D47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A385EB1-DB3C-48F7-B949-B0D2A8F956A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A385EB1-DB3C-48F7-B949-B0D2A8F956A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A385EB1-DB3C-48F7-B949-B0D2A8F956A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A385EB1-DB3C-48F7-B949-B0D2A8F956A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC91410D-11C9-4D61-8D04-3223B7B5D62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC91410D-11C9-4D61-8D04-3223B7B5D62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC91410D-11C9-4D61-8D04-3223B7B5D62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC91410D-11C9-4D61-8D04-3223B7B5D62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFA73F21-E82A-4D00-9DF2-7229562B6D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA73F21-E82A-4D00-9DF2-7229562B6D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA73F21-E82A-4D00-9DF2-7229562B6D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA73F21-E82A-4D00-9DF2-7229562B6D47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
